@@ -1,1 +1,10 @@
-My <b>Leonardo</b> clone
+<b>Leo_v1.0</b> is version 1.0 of the board based on ATMEGA32U4 MCU.<br/>
+Features:
+<ul>
+<li>Leonardo compatible board pinout</li>
+<li>Leonardo compatible MCU ATMEGA32U4</li>
+<li>2 layer board design</li>
+<li>alternative footprints for MCU: TQFP and VQFN</li>
+<li>modern microUSB connector</li>
+<li>possibly better EMC parameters (not yet tested)</li>
+</ul>
