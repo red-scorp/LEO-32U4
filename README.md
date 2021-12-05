@@ -9,9 +9,9 @@ Main goal of the project is to improve EMC property of original board keeping it
 
 Preview:
 
-![Leo_v1.0 preview](Leo_v1.0.png)
+![Leo_v1.0 preview](img/Leo_v1.0.png)
 
-[Schematics in PDF format](Leo_v1.0.pdf)
+[Schematics in PDF format](doc/Leo_v1.0.pdf)
 
 Features:
 
